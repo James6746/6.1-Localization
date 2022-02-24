@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lokalizatsiya Java</string>
+    <string name="lan_english">Ingliz tili</string>
+    <string name="lan_chinese">Xitoy tili</string>
+    <string name="lan_uzbek">O`zbek tili</string>
+    <string name="lan_korean">Korea tili</string>
+    <string name="lan_japanese">Yapon tili</string>
+    <string name="press">Bosish</string>
+
+
+    <plurals name="my_cats">
+        <item quantity="one">Mening %s ta mushugim bor.</item>
+        <item quantity="other">Mening %s ta mushuklarim bor.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">本地化 Kotlin</string>
+    <string name="lan_english">英語</string>
+    <string name="lan_chinese">中國人</string>
+    <string name="lan_uzbek">烏茲別克語</string>
+    <string name="lan_korean">韓國人</string>
+    <string name="lan_japanese">日本人</string>
+    <string name="press">按</string>
+</resources>

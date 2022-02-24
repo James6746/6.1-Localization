@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Localization Kotlin</string>
+    <string name="lan_english">English</string>
+    <string name="lan_chinese">Chinese</string>
+    <string name="lan_uzbek">Uzbek</string>
+    <string name="lan_korean">Korean</string>
+    <string name="lan_japanese">Japanese</string>
+    <string name="press">Press</string>
+
+    <plurals name="my_cats" translatable="false">
+        <item quantity="one">I have %s cat</item>
+        <item quantity="other">I have %s cats</item>
+    </plurals>
+</resources>
