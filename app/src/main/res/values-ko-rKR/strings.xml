@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Localization Java</string>
+    <string name="lan_english">영어</string>
+    <string name="lan_chinese">중국인</string>
+    <string name="lan_uzbek">우즈벡</string>
+    <string name="lan_korean">한국어</string>
+    <string name="lan_japanese">일본어</string>
+    <string name="press">누르다</string>
+
+</resources>
